@@ -19,3 +19,5 @@ I'm currently studying a Masters of IT at the University of Melbourne, aspiring 
 cybersecurity professional.
 
 Currently working on building a plugin for the note-taking application Obsidian.
+
+## Languages
