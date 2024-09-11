@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **Android-9/Android-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Testing.
+I'm currently studying a Masters of IT at the University of Melbourne, aspiring to be a
+cybersecurity professional.
+
+Currently working on building a plugin for the note-taking application Obsidian.
