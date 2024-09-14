@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there 👋, you can call me Android
 
 <!--
 **Android-9/Android-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying a Masters of IT at the University of Melbourne, aspiring to be a
-cybersecurity professional.
+I'm currently studying a Masters of IT, aspiring to be a cybersecurity professional.
 
-Currently working on building a plugin for the note-taking application Obsidian.
+Currently working on building a game search plugin using the IGDB API for the note-taking application Obsidian.
 
 ## Languages
 
