@@ -21,3 +21,8 @@ cybersecurity professional.
 Currently working on building a plugin for the note-taking application Obsidian.
 
 ## Languages
+
+| Languages | Libraries |
+|-----------|-----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> |
+
