@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am studying a Masters of IT, aspiring to delve into the cybersecurity industry.
+I am studying a Masters of IT, aspiring to work in the cybersecurity industry in the future.
 
 Currently working on building a game search plugin using the IGDB API for the note-taking application Obsidian.
 
