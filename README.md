@@ -130,9 +130,11 @@ Currently working on building a game search plugin using the IGDB API for the no
 			<h3><a href="https://github.com/Android-9/overthewire-bandit">OverTheWire Bandit</a></h3>
 			<p>Personal notes for OverTheWire's Bandit Wargames.</p>
 			<p>
+				<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
 				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
-				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
+				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat" alt="Nmap"/>
 				<!-- <img src="https://img.shields.io/github/stars/Android-9/overthewire-bandit?style=flat" alt="Stars"/> -->
 			</p>
 		</td>
@@ -140,7 +142,11 @@ Currently working on building a game search plugin using the IGDB API for the no
 			<h3><a href="https://github.com/Android-9/overthewire-natas">OverTheWire Natas</a></h3>
 			<p>Personal notes for OverTheWire's Natas Wargames.</p>
 			<p>
+				<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
+				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat" alt="Networking"/>
+				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<img src="https://img.shields.io/badge/-BurpSuite-DB6D28?style=flat" alt="BurpSuite"/>
 				<!-- <img src="https://img.shields.io/github/stars/Android-9/overthewire-natas?style=flat" alt="Stars"/> -->
 			</p>
 		</td>
@@ -150,9 +156,10 @@ Currently working on building a game search plugin using the IGDB API for the no
 			<h3><a href="https://github.com/Android-9/overthewire-leviathan">OverTheWire Leviathan</a></h3>
 			<p>Personal notes for OverTheWire's Leviathan Wargames.</p>
 			<p>
+				<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
 				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
 				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
-				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat-square" alt="Networking"/>
+				<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
 				<!-- <img src="https://img.shields.io/github/stars/Android-9/overthewire-leviathan?style=flat" alt="Stars"/> -->
 			</p>
 		</td>
