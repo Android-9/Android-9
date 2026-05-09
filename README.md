@@ -117,12 +117,78 @@ Currently working on building a game search plugin using the IGDB API for the no
 ![Top Languages](https://vani-stats.vercel.app/api?username=Android-9&theme=dark&max_langs=5)
 -->
 
+## Featured Projects
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/Android-9/overthewire-bandit">OverTheWire Bandit</a></h3>
+			<p>Personal notes for OverTheWire's Bandit Wargames.</p>
+			<p>
+				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
+				<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
+				<!-- <img src="https://img.shields.io/github/stars/Android-9/overthewire-bandit?style=flat" alt="Stars"/> -->
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/Android-9/overthewire-natas">OverTheWire Natas</a></h3>
+			<p>Personal notes for OverTheWire's Natas Wargames.</p>
+			<p>
+				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<!-- <img src="https://img.shields.io/github/stars/Android-9/overthewire-natas?style=flat" alt="Stars"/> -->
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/Android-9/overthewire-leviathan">OverTheWire Leviathan</a></h3>
+			<p>Personal notes for OverTheWire's Leviathan Wargames.</p>
+			<p>
+				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
+				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat-square" alt="Networking"/>
+				<!-- <img src="https://img.shields.io/github/stars/Android-9/overthewire-leviathan?style=flat" alt="Stars"/> -->
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/Android-9?tab=repositories">Explore More →</a></h3>
+			<p>Check out all my repos.</p>
+		</td>
+	</tr>
+</table>
+
+<!-- <div align="center">
+    <a href="https://github.com/android-9/overthewire-bandit#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=android-9&repo=overthewire-bandit&theme=github_dark#gh-dark-mode-only" alt="OverTheWire Bandit">
+    </a>
+    <a href="https://github.com/android-9/overthewire-bandit#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=android-9&repo=overthewire-bandit&theme=vue#gh-light-mode-only" alt="OverTheWire Bandit">
+    </a>
+    <a href="https://github.com/android-9/overthewire-natas#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=android-9&repo=overthewire-natas&theme=github_dark#gh-dark-mode-only" alt="OverTheWire Natas">
+    </a>
+    <a href="https://github.com/android-9/overthewire-natas#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=android-9&repo=overthewire-natas&theme=vue#gh-light-mode-only" alt="OverTheWire Natas">
+    </a>
+    <a href="https://github.com/android-9/overthewire-leviathan#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=android-9&repo=overthewire-leviathan&theme=github_dark#gh-dark-mode-only" alt="OverTheWire Leviathan">
+    </a>
+    <a href="https://github.com/android-9/overthewire-leviathan#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=android-9&repo=overthewire-leviathan&theme=vue#gh-light-mode-only" alt="OverTheWire Leviathan">
+    </a>
+</div> -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Android-9&icon=1&color=blue)](https://visitcount.itsvg.in)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Android-9)
+
+<!--
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR)
+-->
 
 # Contact
 > If you would like to contact me regarding anything, feel free to message me through Discord. My Discord username is '**android_._**'.
