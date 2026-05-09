@@ -120,7 +120,10 @@ Currently working on building a game search plugin using the IGDB API for the no
 ![Top Languages](https://vani-stats.vercel.app/api?username=Android-9&theme=dark&max_langs=5)
 -->
 
-## Featured Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+# Featured Projects
 
 <table>
 	<tr>
@@ -181,9 +184,6 @@ Currently working on building a game search plugin using the IGDB API for the no
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=android-9&repo=overthewire-leviathan&theme=vue#gh-light-mode-only" alt="OverTheWire Leviathan">
     </a>
 </div> -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!--
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR)
