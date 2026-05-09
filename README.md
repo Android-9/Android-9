@@ -1,4 +1,7 @@
 # 💫 About
+[![](https://komarev.com/ghpvc/?username=Android-9&icon=1&color=blue)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Android-9)
+
 I am studying a Masters of IT, aspiring to work in the cybersecurity industry in the future.
 
 Currently working on building a game search plugin using the IGDB API for the note-taking application Obsidian.
@@ -181,10 +184,6 @@ Currently working on building a game search plugin using the IGDB API for the no
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Android-9&icon=1&color=blue)](https://visitcount.itsvg.in)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Android-9)
 
 <!--
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR)
