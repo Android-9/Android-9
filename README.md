@@ -73,11 +73,11 @@ Currently working on building a game search plugin using the IGDB API for the no
 	<tr>
 		<td><b>Security</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-			<img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="KaliLinux"/>
-			<img src="https://img.shields.io/badge/-BurpSuite-DB6D28?style=flat-square" alt="BurpSuite"/>
-			<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
-			<img src="https://img.shields.io/badge/-Metasploit-0F1C2E?style=flat-square" alt="Metasploit"/>
+			<img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
+			<img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=flat&logo=kalilinux&logoColor=white" alt="KaliLinux"/>
+			<img src="https://img.shields.io/badge/-BurpSuite-DB6D28?style=flat" alt="BurpSuite"/>
+			<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat" alt="Nmap"/>
+			<img src="https://img.shields.io/badge/-Metasploit-0F1C2E?style=flat" alt="Metasploit"/>
 		</td>
 	</tr>
   <tr>
