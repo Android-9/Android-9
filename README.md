@@ -21,17 +21,17 @@ Currently working on building a game search plugin using the IGDB API for the no
 	<tr>
 		<td><b>Languages</b></td>
 		<td>
+			<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
 			<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
-      <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R"/>
-      <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="Latex"/>
-      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="Typescript"/>
+      		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>
+			<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+			<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+			<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+			<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
+			<img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="Latex"/>
+			<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R"/>
+			<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+			<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="Typescript"/>
 		</td>
 	</tr>
 	<tr>
@@ -39,19 +39,19 @@ Currently working on building a game search plugin using the IGDB API for the no
 		<td>
 			<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 			<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node"/>
+			<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node"/>
 			<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="Numpy"/>
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit"/>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="Pytorch"/>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="Tensorflow"/>
-      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white" alt="Scipy"/>
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black" alt="Jinja"/>
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="npm"/>
-      <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220" alt="pnpm"/>
-      <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="Wordpress"/>
+			<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="Numpy"/>
+			<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+			<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit"/>
+			<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="Pytorch"/>
+			<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="Tensorflow"/>
+			<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white" alt="Scipy"/>
+			<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+			<img src="https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black" alt="Jinja"/>
+			<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="npm"/>
+			<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220" alt="pnpm"/>
+			<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="Wordpress"/>
 		</td>
 	</tr>
 	<tr>
@@ -76,23 +76,23 @@ Currently working on building a game search plugin using the IGDB API for the no
 			<img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
 			<img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=flat&logo=kalilinux&logoColor=white" alt="KaliLinux"/>
 			<img src="https://img.shields.io/badge/-BurpSuite-DB6D28?style=flat" alt="BurpSuite"/>
-			<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat" alt="Nmap"/>
 			<img src="https://img.shields.io/badge/-Metasploit-0F1C2E?style=flat" alt="Metasploit"/>
+			<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat" alt="Nmap"/>
 		</td>
 	</tr>
-  <tr>
-    <td><b>Other</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira" />
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHubActions" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
-      <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black" alt="Prettier" />
-      <img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter" />
-    </td>
-  </tr>
+  	<tr>
+		<td><b>Other</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira" />
+			<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+			<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+			<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHubActions" />
+			<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+			<img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter" />
+			<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
+			<img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black" alt="Prettier" />
+		</td>
+  	</tr>
 </table>
 
 # 📊 GitHub Stats
@@ -100,14 +100,13 @@ Currently working on building a game search plugin using the IGDB API for the no
 ![](https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false)<br/>
 
 <div align="center">
-    <!-- Contribution Heatmap with Snake Animation -->
     <!-- Github Activity Graph -->
     <a href="#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=android-9&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
-    <!-- <a href="#gh-light-mode-only">
+    <a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=android-9&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
-    </a> -->
+    </a>
     <!-- Github Contribution 3D Profile -->
     <!-- <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
     <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile"> -->
