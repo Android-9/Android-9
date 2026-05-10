@@ -99,23 +99,25 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 </table>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false)<br/>
 
 <div align="center">
-    <!-- Github Activity Graph -->
+	<!-- GitHub Readme Stats -->
+	<!-- <img src="https://github-readme-stats.shion.dev/api?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Readme Stats" /> -->
+	<!-- Streaks -->
+	<img src="https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false" alt="Streaks" />
+	<!-- Snake Animation -->
+	<img src="https://raw.githubusercontent.com/android-9/android-9/snake-output/snake.svg" alt="Snake animation" />
+	<!-- Github Activity Graph -->
     <a href="#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=android-9&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
-    <a href="#gh-light-mode-only">
+	<a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=android-9&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
     <!-- Github Contribution 3D Profile -->
-    <!-- <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile"> -->
+    <img src="./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
 </div>
-
-<img src="https://raw.githubusercontent.com/android-9/android-9/snake-output/snake.svg" alt="Snake animation" />
 
 <!--
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
