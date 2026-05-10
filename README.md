@@ -102,7 +102,12 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 
 <div align="center">
 	<!-- GitHub Readme Stats -->
-	<img src="https://github-readme-stats.shion.dev/api?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Readme Stats" />
+	<a href="">
+		<img height=170 align="center" src="./profile/stats.svg" />
+	</a>
+	<a href="">
+		<img height=170 align="center" src="./profile/top-langs.svg" />
+	</a>
 	<!-- Streaks -->
 	<img src="https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false" alt="Streaks" />
 	<!-- Snake Animation -->
@@ -119,11 +124,9 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
     <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
 </div>
 
-
-<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
 <!-- ![Top Languages](https://vani-stats.vercel.app/api?username=Android-9&theme=dark&max_langs=5) -->
 
+<!-- ![Pinned](./profile/pin-android-9-overthewire-leviathan.svg) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
