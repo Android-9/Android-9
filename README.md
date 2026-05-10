@@ -106,7 +106,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 		<img height=170 align="center" src="./profile/stats.svg" />
 	</a>
 	<a href="">
-		<img height=170 align="center" src="./profile/top-langs.svg" />
+		<img height=170 align="center" src="./profile/top-langs-donut.svg" />
 	</a>
 	<!-- Streaks -->
 	<img src="https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false" alt="Streaks" />
