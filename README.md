@@ -103,7 +103,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 <div align="center">
 	<!-- GitHub Readme Stats -->
 	<a href="">
-		<img height=170 align="center" src="./profile/stats.svg" />
+		<img height=170 align="center" src="./profile/stats-radical.svg" />
 	</a>
 	<a href="">
 		<img height=170 align="center" src="./profile/top-langs-donut.svg" />
