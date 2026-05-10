@@ -102,7 +102,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 
 <div align="center">
 	<!-- GitHub Readme Stats -->
-	<!-- <img src="https://github-readme-stats.shion.dev/api?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Readme Stats" /> -->
+	<img src="https://github-readme-stats.shion.dev/api?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Readme Stats" />
 	<!-- Streaks -->
 	<img src="https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false" alt="Streaks" />
 	<!-- Snake Animation -->
