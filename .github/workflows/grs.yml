@@ -23,12 +23,52 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.TOKEN }}
 
+      - name: Generate stats card gruvbox
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true
+          path: profile/stats-gruvbox.svg
+          token: ${{ secrets.TOKEN }}
+
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=normal
           path: profile/top-langs.svg
+          token: ${{ secrets.TOKEN }}
+
+      - name: Generate top languages card compact
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+          path: profile/top-langs-compact.svg
+          token: ${{ secrets.TOKEN }}
+
+      - name: Generate top languages card donut
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut
+          path: profile/top-langs-donut.svg
+          token: ${{ secrets.TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical
+          path: profile/top-langs-donut-vertical.svg
+          token: ${{ secrets.TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie
+          path: profile/top-langs-pie.svg
           token: ${{ secrets.TOKEN }}
 
       - name: Generate pin card
