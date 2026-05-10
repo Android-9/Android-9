@@ -115,14 +115,15 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=android-9&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a> -->
     <!-- Github Contribution 3D Profile -->
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+    <img src="./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
     <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
 </div>
 
-<!--
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Top Languages](https://vani-stats.vercel.app/api?username=Android-9&theme=dark&max_langs=5)
--->
+
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Android-9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!-- ![Top Languages](https://vani-stats.vercel.app/api?username=Android-9&theme=dark&max_langs=5) -->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
