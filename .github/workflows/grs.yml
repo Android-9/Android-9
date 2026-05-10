@@ -27,8 +27,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true
-          path: profile/stats-tokyonight.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true
+          path: profile/stats-radical.svg
           token: ${{ secrets.TOKEN }}
 
       - name: Generate top languages card
@@ -51,7 +51,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut
+          options: username=${{ github.repository_owner }}&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut
           path: profile/top-langs-donut.svg
           token: ${{ secrets.TOKEN }}
 
