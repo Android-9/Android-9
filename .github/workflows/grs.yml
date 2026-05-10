@@ -27,8 +27,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true
-          path: profile/stats-gruvbox.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true
+          path: profile/stats-synthwave.svg
           token: ${{ secrets.TOKEN }}
 
       - name: Generate top languages card
