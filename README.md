@@ -108,14 +108,14 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 	<!-- Snake Animation -->
 	<img src="https://raw.githubusercontent.com/android-9/android-9/snake-output/snake.svg" alt="Snake animation" />
 	<!-- Github Activity Graph -->
-    <a href="#gh-dark-mode-only">
+    <!-- <a href="#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=android-9&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
 	<a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=android-9&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
-    </a>
+    </a> -->
     <!-- Github Contribution 3D Profile -->
-    <img src="./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
     <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
 </div>
 
