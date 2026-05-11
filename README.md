@@ -214,4 +214,6 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 # Contact
 > If you would like to contact me regarding anything, feel free to message me through Discord. My Discord username is '**android_._**'.
 
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Android-9&fontSize=90" /> -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
