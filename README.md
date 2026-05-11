@@ -2,6 +2,10 @@
 [![](https://komarev.com/ghpvc/?username=Android-9&icon=1&color=blue)](https://visitcount.itsvg.in)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Android-9)
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0EF70F&center=true&width=435&lines=Hey%2C+I+go+by+the+alias+Android." alt="Typing SVG" /></a>
+</div>
+
 I am studying a Masters of IT, aspiring to work in the cybersecurity industry in the future.
 
 - Currently working on building a game search plugin using the IGDB API for the note-taking application Obsidian
