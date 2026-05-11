@@ -133,8 +133,10 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 
 <!-- ![Pinned](./profile/pin-android-9-overthewire-leviathan.svg) -->
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+-->
 
 # Featured Projects
 
