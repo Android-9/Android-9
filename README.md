@@ -34,7 +34,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
       		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>
 			<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
 			<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-			<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+			<img src="https://img.shields.io/badge/css-639?logo=css&logoColor=fff" alt="CSS"/>
 			<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
 			<img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="Latex"/>
 			<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R"/>
