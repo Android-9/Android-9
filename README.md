@@ -162,7 +162,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 					<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat" alt="Networking"/>
 					<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 					<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
-					<img src="https://img.shields.io/badge/-BurpSuite-DB6D28?style=flat" alt="BurpSuite"/>
+					<img src="https://img.shields.io/badge/-Burp%20Suite-DB6D28?style=flat" alt="BurpSuite"/>
 					<!-- <img src="https://img.shields.io/github/stars/Android-9/overthewire-natas?style=flat" alt="Stars"/> -->
 				</p>
 			</td>
