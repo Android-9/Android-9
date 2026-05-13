@@ -34,7 +34,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
       		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>
 			<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
 			<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-			<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+			<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
 			<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
 			<img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="Latex"/>
 			<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R"/>
@@ -65,9 +65,9 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 	<tr>
 		<td><b>Hosting/Cloud</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="GoogleCloud"/>
-			<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"/>
-			<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+			<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="GoogleCloud"/>
+			<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure"/>
+			<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
 			<img src="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
 		</td>
 	</tr>
@@ -83,7 +83,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 		<td>
 			<img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
 			<img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=flat&logo=kalilinux&logoColor=white" alt="KaliLinux"/>
-			<img src="https://img.shields.io/badge/-BurpSuite-DB6D28?style=flat" alt="BurpSuite"/>
+			<img src="https://img.shields.io/badge/-Burp%20Suite-DB6D28?style=flat" alt="BurpSuite"/>
 			<img src="https://img.shields.io/badge/-Metasploit-0F1C2E?style=flat" alt="Metasploit"/>
 			<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat" alt="Nmap"/>
 		</td>
