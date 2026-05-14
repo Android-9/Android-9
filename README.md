@@ -2,10 +2,16 @@
 [![](https://komarev.com/ghpvc/?username=Android-9&icon=1&color=blue)](https://visitcount.itsvg.in)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Android-9)
 
+<!-- Mario Animation -->
 <!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Banner" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0EF70F&center=true&width=435&lines=Hey%2C+I+go+by+the+alias+Android." alt="Typing SVG" /></a>
 </div> -->
+
+<!-- Capsule Animation -->
+<!-- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Android-9&fontSize=90&animation=fadeIn" /> -->
+
 
 <div align="center">
 	<img src="./metrics.terminal.svg" width="75%" alt="Terminal" />
@@ -222,6 +228,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 <a href="https://discord.com/users/android_._">
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Android-9&fontSize=90" /> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
