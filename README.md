@@ -150,7 +150,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 ![](https://github-profile-trophy.vercel.app/?username=Android-9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 -->
 
-# Featured Projects
+# 🌟 Featured Projects
 <div align="center">
 	<table>
 		<tr>
@@ -224,7 +224,7 @@ I am studying a Masters of IT, aspiring to work in the cybersecurity industry in
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR)
 -->
 
-# Contact
+# 💬 Contact
 <a href="https://discord.com/users/android_._">
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
 </a>
