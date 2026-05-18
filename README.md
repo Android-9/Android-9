@@ -19,11 +19,11 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0EF70F&center=true&width=435&lines=Hey%2C+I+go+by+the+alias+Android." alt="Typing SVG" /></a>
 </div>
 
-I am studying a Masters of IT, aspiring to work in the cybersecurity industry in the future.
+I am studying a **Masters of IT**, aspiring to work in the cybersecurity industry in the future.
 
-- Currently working on building a game search plugin using the IGDB API for the note-taking application Obsidian
-- Currently going through PentesterLab, TryHackMe, and HackTheBox exercises
-- Currently working towards OSCP, HackTheBox CPTS, and CompTIA Networking+ Certifications
+- Currently working on building a **game search plugin using the IGDB API** for the note-taking application Obsidian
+- Currently going through **PentesterLab**, **TryHackMe**, and **HackTheBox** exercises
+- Currently working towards **OSCP**, **HackTheBox CPTS**, and **CompTIA Networking+** Certifications
 <!-- - Portfolio: [android-9.github.io](https://android-9.github.io) -->
 
 <!--
