@@ -229,6 +229,6 @@ I am studying a **Masters of IT**, aspiring to work in the cybersecurity industr
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
