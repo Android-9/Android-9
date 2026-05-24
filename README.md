@@ -126,7 +126,7 @@ I am studying a **Masters of IT**, aspiring to work in the cybersecurity industr
 		<img height=170 align="center" src="./profile/top-langs-donut.svg" />
 	</a>
 	<!-- Streaks -->
-	<!-- <img src="https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false" alt="Streaks" /> -->
+	<img src="https://streak-stats.demolab.com/?user=Android-9&theme=dark&hide_border=false" alt="Streaks" />
 	<!-- Snake Animation -->
 	<img src="https://raw.githubusercontent.com/android-9/android-9/snake-output/snake.svg" alt="Snake animation" />
 	<!-- Github Activity Graph -->
