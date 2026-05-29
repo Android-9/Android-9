@@ -8,14 +8,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0EF70F&center=true&width=435&lines=Hey%2C+I+go+by+the+alias+Android." alt="Typing SVG" /></a>
 </div> -->
 
-<!-- Capsule Animation -->
-<!-- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Android-9&fontSize=90&animation=fadeIn" /> -->
-
+<!-- Username Capsule Animation -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Android-9&fontSize=90&animation=fadeIn" /> -->
 
 <div align="center">
 	<img src="./metrics.terminal.svg" width="75%" alt="Terminal" />
-	<br>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0EF70F&center=true&width=435&lines=Hey%2C+I+go+by+the+alias+Android." alt="Typing SVG" /></a>
 </div>
 
