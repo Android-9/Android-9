@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Android's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  : 497, Total PRs: 35, Total Issues: 20, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  : 500, Total PRs: 35, Total Issues: 28, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 188.43868532428516;
+        stroke-dashoffset: 185.98407130592926;
       }
     }
   
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >497</text>
+      >500</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >20</text>
+      >28</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
