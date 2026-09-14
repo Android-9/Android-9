@@ -69,6 +69,7 @@ I am studying a **Masters of IT**, aspiring to work in the cybersecurity industr
 			<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="npm"/>
 			<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220" alt="pnpm"/>
 			<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="Wordpress"/>
+			<img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="Astro"/>
 		</td>
 	</tr>
 	<tr>
@@ -78,6 +79,7 @@ I am studying a **Masters of IT**, aspiring to work in the cybersecurity industr
 			<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure"/>
 			<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
 			<img src="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
+			<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
 		</td>
 	</tr>
 	<tr>
