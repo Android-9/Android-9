@@ -29,6 +29,7 @@ I am studying a **Masters of IT**, aspiring to work in the cybersecurity industr
 -->
 
 # 💻 Tech Stack
+<!-- Badges from https://github.com/inttter/md-badges -->
 
 <table>
 	<tr>
