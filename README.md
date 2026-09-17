@@ -71,6 +71,7 @@ I am studying a **Masters of IT**, aspiring to work in the cybersecurity industr
 			<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220" alt="pnpm"/>
 			<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="Wordpress"/>
 			<img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="Astro"/>
+			<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
 		</td>
 	</tr>
 	<tr>
