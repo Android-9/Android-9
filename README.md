@@ -18,9 +18,10 @@
 
 Aspiring to work in the cybersecurity industry in the future.
 
-- Currently working on building a **game search plugin using the IGDB API** for the note-taking application Obsidian
-- Currently going through **PentesterLab**, **TryHackMe**, and **HackTheBox** exercises
-- Currently working towards **OSCP**, **HackTheBox CPTS**, and **CompTIA Networking+** Certifications
+I am currently:
+- Working on building a **game search plugin using the IGDB API** for the note-taking application Obsidian
+- Going through **PentesterLab**, **TryHackMe**, and **HackTheBox** exercises
+- Working towards **OSCP**, **HackTheBox CPTS**, and **CompTIA Networking+** Certifications
 <!-- - Portfolio: [android-9.github.io](https://android-9.github.io) -->
 
 <!--
